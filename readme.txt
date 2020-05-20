@@ -1,2 +1,3 @@
 add readme.txt
 To learn Git basic...
+Creating a new branch is quick.
